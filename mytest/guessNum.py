@@ -9,7 +9,7 @@
 import random
 
 rand = random.randint(1, 1000)
-num = eval(input("please input a num:"))
+num = eval(input("please input a num 1 - 1000:"))
 
 while num != rand:
     if num > rand:
