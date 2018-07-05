@@ -25,3 +25,5 @@ def addmore(*num):
 
 
 print(addmore(1, 2), addmore(1, 2, 3, 4, 5))
+
+
