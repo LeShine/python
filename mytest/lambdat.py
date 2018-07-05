@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/7/5 15:49
 # @Author  : xuanle
-# @FileName: lambda.py
+# @FileName: lambdat.py
 # @Software: PyCharm
 # @GitHub  ：https://github.com/LeShine
 
 
 # 匿名函数关键字 lambda
 
-num = lambda a, b: a + 6
+nums = lambda a, b: a + 6
 
 print(1, 2)
 
