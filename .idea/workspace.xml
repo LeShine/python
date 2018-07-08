@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f46be78-d81e-472c-8afd-ea4b9ea68a44" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/mytest/数据类型/listtuplesetdict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0f46be78-d81e-472c-8afd-ea4b9ea68a44" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +84,8 @@
       <file leaf-file-name="listtuplesetdict.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mytest/数据类型/listtuplesetdict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="69" column="40" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
+            <state relative-caret-position="2010">
+              <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -103,6 +100,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -179,12 +177,6 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="mytest" type="462c0819:PsiDirectoryNode" />
-              <item name="数据类型" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="turtle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -197,7 +189,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PYpc" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/mytest/timecounter.py" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -380,19 +372,25 @@
       <option name="project" value="LOCAL" />
       <updated>1530546483034</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="list/tuple/set/dict">
+      <created>1531064258527</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531064258527</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50065106" side_tool="true" weight="0.32872927" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50065106" side_tool="true" weight="0.30110496" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49934897" weight="0.32872927" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30110496" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.30110496" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11783854" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -422,7 +420,8 @@
     <MESSAGE value="系统语音调用/闰年检测/浮点误差/圆的关系" />
     <MESSAGE value="win32控制应用窗体显示" />
     <MESSAGE value="棋盘/函数" />
-    <option name="LAST_COMMIT_MESSAGE" value="棋盘/函数" />
+    <MESSAGE value="list/tuple/set/dict" />
+    <option name="LAST_COMMIT_MESSAGE" value="list/tuple/set/dict" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/turtle/duobianxing.py">
@@ -780,8 +779,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mytest/数据类型/listtuplesetdict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="69" column="40" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
+        <state relative-caret-position="2010">
+          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
         </state>
       </provider>
     </entry>
